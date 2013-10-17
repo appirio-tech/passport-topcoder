@@ -1,0 +1,20 @@
+{
+    "name": "passport-topcoder",
+    "description": "Passport strategy for Topcoder OAuth provider",
+    "version": "0.0.1",
+    "dependencies": {
+        "passport-oauth" : "0.1.x",
+        "pkginfo": "0.2.x"
+    },
+    "devDependencies": {
+        "mocha": "1.x.x",
+        "chai": "1.x.x",
+        "chai-passport-strategy": "0.1.x",
+        "expect.js" : "0.2.x"
+    },
+    "main": "./",
+    "engines": { "node": ">= 0.4.0" },
+    "author": {
+        "name": "CloudSpokes and TopCoder Together"
+    }
+}
