@@ -4,7 +4,7 @@
     "version": "0.0.1",
     "dependencies": {
         "passport-oauth" : "0.1.x",
-        "pkginfo": "0.2.x"
+        "pkginfo": "0.4.1"
     },
     "devDependencies": {
         "mocha": "1.x.x",
